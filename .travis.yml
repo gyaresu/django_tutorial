@@ -7,5 +7,8 @@ env:
     matrix:
         - DJANGO=1.9
 
+install:
+    - pip install django
+
 script:
     - python manage.py test polls
