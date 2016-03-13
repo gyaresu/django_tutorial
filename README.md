@@ -3,4 +3,4 @@ Django project tutorial
 
 Tests done with https://travis-ci.org
 
-Current test status: [![Build Status](https://travis-ci.org/gyaresu/django_tutorial.svg?branch=master)](https://travis-ci.org/gyaresu/django_tutorial)
+[![Build Status](https://travis-ci.org/gyaresu/django_tutorial.svg?branch=master)](https://travis-ci.org/gyaresu/django_tutorial)
