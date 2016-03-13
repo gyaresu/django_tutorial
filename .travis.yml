@@ -1,0 +1,11 @@
+language: python
+
+python:
+ - "2.7"
+
+env:
+    matrix:
+        - DJANGO=1.9
+
+script:
+    - python manage.py test polls
